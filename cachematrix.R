@@ -3,7 +3,7 @@
 ## cacheSolve computes the inverse of the special matrix created by makeCacheMatrix
 
 
-## The makeCacheMatrix function creates a special matrix which
+## The makeCacheMatrix function creates a special invertible matrix which
 ## really is a list containing a function to
 ## 1. set the matrix
 ## 2. get the matrix
